@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+#drop_zone {
+    width: 300px;
+    height: 200px;
+    border: 2px dashed #ccc;
+    margin: 20px auto;
+    padding: 20px;
+}
+#preview {
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 20px;
+}
